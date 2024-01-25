@@ -1,0 +1,24 @@
+nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: rgb(164, 49, 49);
+    height: 40px;
+    text-align: center;
+
+}
+
+li {
+    color: white;
+    font-size: 2rem;
+}
+
+Link {
+    text-decoration: solid;
+    color: aquamarine;
+}
+
+.menu {
+    text-decoration: solid;
+    color: black;
+}
